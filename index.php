@@ -15,7 +15,6 @@ if( ! class_exists( 'SampleExtension' ) ) {
     class SampleExtension {
 
         public function __construct() {
-            self::$version = '1.0';
         
                 //Check for updates
                 require_once( plugin_dir_path( __FILE__ ) . 'class-update.php' );
