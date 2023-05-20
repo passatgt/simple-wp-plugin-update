@@ -1,0 +1,23 @@
+{
+    "id": "simple-wp-plugin-update",
+	"slug" : "simple-wp-plugin-update",
+	"version" : "2.0",
+    "url": "https://your-website.com",
+    "package": "https://your-website.com/extension.zip",
+	"tested" : "5.8",
+	"requires_php" : "5.3",
+	"name" : "Plugin Name",
+	"author" : "<a href='https://your-website.com'>Your Name</a>",
+	"author_profile" : "http://profiles.wordpress.org/your-name",
+	"requires" : "3.0",
+	"last_updated" : "2023-05-20 16:00:00",
+	"sections" : {
+		"description" : "Description for the Description tab int he modal",
+		"installation" : "Description for the Install tab int he modal",
+		"changelog" : "<h4>2.0</h4><ul><li>Bug fix</li></ul>"
+	},
+	"banners" : {
+		"low" : "https://yourwebsite.com//banner-772x250.jpg",
+		"high" : "https://yourwebsite.com/banner-1544x500.jpg"
+	}
+}
