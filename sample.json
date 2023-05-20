@@ -1,9 +1,9 @@
 {
-    "id": "simple-wp-plugin-update",
+	"id": "simple-wp-plugin-update",
 	"slug" : "simple-wp-plugin-update",
 	"version" : "2.0",
-    "url": "https://your-website.com",
-    "package": "https://your-website.com/extension.zip",
+	"url": "https://your-website.com",
+	"package": "https://your-website.com/extension.zip",
 	"tested" : "5.8",
 	"requires_php" : "5.3",
 	"name" : "Plugin Name",
